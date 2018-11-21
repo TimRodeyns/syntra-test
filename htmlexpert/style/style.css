@@ -1,0 +1,42 @@
+body{
+    margin: 100px;
+}
+
+.menu {
+  height: 150px;
+  font-size: 30px;
+  text-align: center;
+  background-color: #008ae6;
+}
+
+.foto1 {
+  float: left;
+  width: 200px;
+  height: 200px;
+  background-color: #D6E5DE;
+}
+
+.clearfix{
+    clear: both;
+}
+
+.foto2 {
+  float: right;
+  width: 350px;
+  height: 400px;
+  background-color: #80ff80;
+}
+
+.footer{
+  clear: both;
+  height: 200px;
+  background-color: #ffb3b3;
+}
+
+.blok {
+  float: left;
+  width: 30%;
+  margin: 20px;
+  height: 150px;
+  background-color: #ff3300;
+}
